@@ -222,7 +222,6 @@ section {
 
 /* ===== SOBRE — EDITORIAL LAYOUT ===== */
 
-/* Intro: foto + texto curto lado a lado */
 .sobre-intro {
     display: grid;
     grid-template-columns: 1fr 1.4fr;
